@@ -1,0 +1,47 @@
+body{
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2.2em;
+    color: black;
+    margin: 0;
+}
+
+
+header{
+    background-color: rgb(0, 0, 0);
+}
+section, footer{
+    margin: 40px;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    padding: 15px;
+    font-family:Verdana;
+}
+
+h2{
+    font-size: 28px;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    font-weight: 600;
+    align-content: center;
+}
+
+figcaption{
+    align-items: center;
+}
+
+#texto {
+    text-align: center;
+    font-size: 17px;
+}
+#texto2 {
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+}
